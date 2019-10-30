@@ -182,8 +182,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33171,Oviedo,Oviedo,Asturias
 33428,Llanera,Llanera,Asturias
 34477,Villanuño de Valdavia,Loma de Ucieza,Palencia
-35002,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35530,Teguise,Teguise,Las Palma
+35002,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35530,Teguise,Teguise,Las Palmas
 36540,Silleda,Silleda,Pontevedra
 37130,Villarmayor,Tabera de Abajo,Salamanca
 38470,Silos,Silos,Santa Cruz de Tenerife
@@ -451,8 +451,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33791,Valdés,Valdés,Asturias
 33960,San Martín del Rey Aurelio,San Martín del Rey Aurelio,Asturias
 34208,Venta de Baños,Dueñas,Palencia
-35011,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35138,Mogán,Mogán,Las Palma
+35011,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35138,Mogán,Mogán,Las Palmas
 36634,Cambados,Cambados,Pontevedra
 37003,Salamanca,Salamanca,Salamanca
 37171,Monleras,Monleras,Salamanca
@@ -655,8 +655,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33828,Grado,Grado,Asturias
 34257,Villahán,Tabanera de Cerrato,Palencia
 34406,Herrera de Pisuerga,Herrera de Pisuerga,Palencia
-35611,Puerto del Rosario,Puerto del Rosario,Las Palma
-35649,Oliva,Oliva,Las Palma
+35611,Puerto del Rosario,Puerto del Rosario,Las Palmas
+35649,Oliva,Oliva,Las Palmas
 36500,Lalín,Lalín,Pontevedra
 36680,Estrada,Estrada,Pontevedra
 36868,Ponteareas,Ponteareas,Pontevedra
@@ -799,7 +799,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32791,Pereiro de Aguiar,Pereiro de Aguiar,Ourense
 33865,Salas,Salas,Asturias
 34406,Collazos de Boedo,Herrera de Pisuerga,Palencia
-35250,Ingenio,Ingenio,Las Palma
+35250,Ingenio,Ingenio,Las Palmas
 36203,Vigo,Vigo,Pontevedra
 36657,Portas,Portas,Pontevedra
 37748,Puente del Congosto,Puente del Congosto,Salamanca
@@ -865,7 +865,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33312,Villaviciosa,Villaviciosa,Asturias
 33756,Franco,Boal,Asturias
 33837,Belmonte de Miranda,Belmonte de Miranda,Asturias
-35610,Antigua,Puerto del Rosario,Las Palma
+35610,Antigua,Puerto del Rosario,Las Palmas
 36002,Pontevedra,Pontevedra,Pontevedra
 36118,Campo Lameiro,Campo Lameiro,Pontevedra
 36379,Nigrán,Nigrán,Pontevedra
@@ -948,7 +948,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33909,Langreo,Langreo,Asturias
 33947,San Martín del Rey Aurelio,San Martín del Rey Aurelio,Asturias
 34449,Villovieco,Villalcázar de Sirga,Palencia
-35625,Pájara,Pájara,Las Palma
+35625,Pájara,Pájara,Las Palmas
 36420,Crecente,Crecente,Pontevedra
 36600,Vilagarcía de Arousa,Vilagarcía de Arousa,Pontevedra
 36689,Estrada,Estrada,Pontevedra
@@ -1073,8 +1073,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33001,Oviedo,Oviedo,Asturias
 33157,Cudillero,Cudillero,Asturias
 33669,Oviedo,Oviedo,Asturias
-35319,Santa Brígida,Santa Brígida,Las Palma
-35349,Valleseco,Valleseco,Las Palma
+35319,Santa Brígida,Santa Brígida,Las Palmas
+35349,Valleseco,Valleseco,Las Palmas
 36158,Pontevedra,Pontevedra,Pontevedra
 36391,Nigrán,Nigrán,Pontevedra
 37148,Espadaña,Villar de Peralonso,Salamanca
@@ -1150,7 +1150,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32430,Castrelo de Miño,Arnoia,Ourense
 32779,San Xoán de Río,San Xoán de Río,Ourense
 33567,Ribadesella,Ribadesella,Asturias
-35328,Vega de San Mateo,Vega de San Mateo,Las Palma
+35328,Vega de San Mateo,Vega de San Mateo,Las Palmas
 36864,Ponteareas,Ponteareas,Pontevedra
 37449,Galindo y Perahuy,Carrascal de Barregas,Salamanca
 37608,Barbalos,Tamames,Salamanca
@@ -1229,8 +1229,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33792,Navia,Valdés,Asturias
 34305,Torremormojón,Capillas,Palencia
 34491,Villaherreros,Santa Cruz de Boedo,Palencia
-35140,Mogán,Mogán,Las Palma
-35542,Haría,Haría,Las Palma
+35140,Mogán,Mogán,Las Palmas
+35542,Haría,Haría,Las Palmas
 36555,Forcarei,Forcarei,Pontevedra
 36585,Vila de Cruces,Vila de Cruces,Pontevedra
 36779,Oia,Oia,Pontevedra
@@ -1362,7 +1362,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33459,Castrillón,Castrillón,Asturias
 33617,Mieres,Mieres,Asturias
 33726,Boal,Boal,Asturias
-35338,Teror,Teror,Las Palma
+35338,Teror,Teror,Las Palmas
 36820,Ponte Caldelas,Ponte Caldelas,Pontevedra
 37718,Aldeacipreste,Aldeacipreste,Salamanca
 38610,Granadilla de Abona,Granadilla de Abona,Santa Cruz de Tenerife
@@ -1526,7 +1526,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33594,Llanes,Llanes,Asturias
 33728,Boal,Boal,Asturias
 34120,Carrión de los Condes,Carrión de los Condes,Palencia
-35217,Valsequillo de Gran Canaria,Valsequillo de Gran Canaria,Las Palma
+35217,Valsequillo de Gran Canaria,Valsequillo de Gran Canaria,Las Palmas
 36310,Vigo,Vigo,Pontevedra
 36411,Porriño,Porriño,Pontevedra
 36588,Estrada,Estrada,Pontevedra
@@ -1724,7 +1724,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32814,Quintela de Leirado,Quintela de Leirado,Ourense
 33630,Lena,Lena,Asturias
 34260,Villamedianilla,Valles de Palenzuela,Burgos
-35280,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35280,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36529,Agolada,Lalín,Pontevedra
 36660,Moraña,Moraña,Pontevedra
 36812,Redondela,Redondela,Pontevedra
@@ -1804,7 +1804,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32698,Oímbra,Verín,Ourense
 33427,Llanera,Llanera,Asturias
 34889,Fresno del Río,Guardo,Palencia
-35457,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palma
+35457,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palmas
 36435,Arbo,Arbo,Pontevedra
 37130,Mata de Ledesma,Tabera de Abajo,Salamanca
 37175,Pereña de la Ribera,Pereña de la Ribera,Salamanca
@@ -1951,7 +1951,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33957,Mieres,Mieres,Asturias
 34111,Villaluenga de la Vega,Saldaña,Palencia
 34349,Boadilla de Rioseco,Villada,Palencia
-35413,Arucas,Arucas,Las Palma
+35413,Arucas,Arucas,Las Palmas
 39009,Santander,Santander,Cantabria
 39314,Santillana del Mar,Santillana del Mar,Cantabria
 39528,Comillas,Valdáliga,Cantabria
@@ -2158,8 +2158,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34249,Hornillos de Cerrato,Baltanás,Palencia
 34305,Castromocho,Capillas,Palencia
 34485,Micieces de Ojeda,Olmos de Ojeda,Palencia
-35507,Teguise,Teguise,Las Palma
-35510,Tías,Tías,Las Palma
+35507,Teguise,Teguise,Las Palmas
+35510,Tías,Tías,Las Palmas
 36163,Pontevedra,Pontevedra,Pontevedra
 36459,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36537,Rodeiro,Rodeiro,Pontevedra
@@ -2376,7 +2376,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33796,Coaña,Coaña,Asturias
 34839,Cervera de Pisuerga,Cervera de Pisuerga,Palencia
 34848,Pernía,Pernía,Palencia
-35459,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palma
+35459,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palmas
 36520,Agolada,Agolada,Pontevedra
 36545,Silleda,Silleda,Pontevedra
 36586,Vila de Cruces,Vila de Cruces,Pontevedra
@@ -2443,9 +2443,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32652,Rairiz de Veiga,Rairiz de Veiga,Ourense
 33869,Salas,Salas,Asturias
 34209,Hontoria de Cerrato,Valle de Cerrato,Palencia
-35129,Mogán,Mogán,Las Palma
-35213,Telde,Telde,Las Palma
-35329,Vega de San Mateo,Vega de San Mateo,Las Palma
+35129,Mogán,Mogán,Las Palmas
+35213,Telde,Telde,Las Palmas
+35329,Vega de San Mateo,Vega de San Mateo,Las Palmas
 36340,Nigrán,Nigrán,Pontevedra
 36360,Nigrán,Nigrán,Pontevedra
 36635,Ribadumia,Cambados,Pontevedra
@@ -2778,7 +2778,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33839,Belmonte de Miranda,Belmonte de Miranda,Asturias
 33934,Langreo,Langreo,Asturias
 33994,Caso,Caso,Asturias
-35109,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35109,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36312,Vigo,Vigo,Pontevedra
 36837,Lama,Lama,Pontevedra
 36845,Fornelos de Montes,Fornelos de Montes,Pontevedra
@@ -2908,7 +2908,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33769,Castropol,Castropol,Asturias
 33891,Salas,Salas,Asturias
 34410,Monzón de Campos,Monzón de Campos,Palencia
-35012,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35012,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36005,Pontevedra,Pontevedra,Pontevedra
 36460,Tui,Tui,Pontevedra
 36560,Forcarei,Forcarei,Pontevedra
@@ -2976,9 +2976,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34112,Villaluenga de la Vega,Villaluenga de la Vega,Palencia
 34400,Herrera de Pisuerga,Herrera de Pisuerga,Palencia
 34419,Monzón de Campos,Amusco,Palencia
-35006,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35413,Santa María de Guía de Gran Canaria,Arucas,Las Palma
-35571,Yaiza,Tías,Las Palma
+35006,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35413,Santa María de Guía de Gran Canaria,Arucas,Las Palmas
+35571,Yaiza,Tías,Las Palmas
 37410,Pedroso de la Armuña,Pedroso de la Armuña,Salamanca
 37428,Villaverde de Guareña,Orbada,Salamanca
 37610,Mogarraz,Mogarraz,Salamanca
@@ -3052,9 +3052,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34347,Villalcón,Lagartos,Palencia
 34490,Santoyo,Astudillo,Palencia
 34886,Velilla del Río Carrión,Velilla del Río Carrión,Palencia
-35018,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35119,Santa Lucía de Tirajana,San Bartolomé de Tirajana,Las Palma
-35629,Tuineje,Tuineje,Las Palma
+35018,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35119,Santa Lucía de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35629,Tuineje,Tuineje,Las Palmas
 36161,Pontevedra,Pontevedra,Pontevedra
 36316,Gondomar,Gondomar,Pontevedra
 36626,Illa de Arousa,Illa de Arousa,Pontevedra
@@ -3211,7 +3211,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33536,Piloña,Piloña,Asturias
 33892,Regueras,Grado,Asturias
 34405,Melgar de Fernamental,Melgar de Fernamental,Burgos
-35470,Aldea de San Nicolás,Aldea de San Nicolás,Las Palma
+35470,Aldea de San Nicolás,Aldea de San Nicolás,Las Palmas
 36214,Vigo,Vigo,Pontevedra
 36969,Sanxenxo,Sanxenxo,Pontevedra
 38890,Agulo,Hermigua,Santa Cruz de Tenerife
@@ -3293,8 +3293,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33991,Laviana,Laviana,Asturias
 34114,Quintanilla de Onsoña,Quintanilla de Onsoña,Palencia
 34247,Hérmedes de Cerrato,Hérmedes de Cerrato,Palencia
-35107,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
-35508,Teguise,Teguise,Las Palma
+35107,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35508,Teguise,Teguise,Las Palmas
 36413,Porriño,Porriño,Pontevedra
 36582,Vila de Cruces,Vila de Cruces,Pontevedra
 36599,Vila de Cruces,Vila de Cruces,Pontevedra
@@ -3448,7 +3448,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33673,Mieres,Mieres,Asturias
 33818,Cangas del Narcea,Cangas del Narcea,Asturias
 33819,Cangas del Narcea,Cangas del Narcea,Asturias
-35610,Puerto del Rosario,Puerto del Rosario,Las Palma
+35610,Puerto del Rosario,Puerto del Rosario,Las Palmas
 36209,Vigo,Vigo,Pontevedra
 37129,Parada de Arriba,Carrascal de Barregas,Salamanca
 37292,Olmedo de Camaces,Olmedo de Camaces,Salamanca
@@ -3521,7 +3521,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33139,Pravia,Pravia,Asturias
 33793,Navia,Navia,Asturias
 34480,Alar del Rey,Alar del Rey,Palencia
-35128,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35128,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36838,Lama,Lama,Pontevedra
 36969,Meaño,Sanxenxo,Pontevedra
 37449,Parada de Arriba,Carrascal de Barregas,Salamanca
@@ -3584,7 +3584,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33688,Aller,Aller,Asturias
 33928,Grado,Grado,Asturias
 34419,Fuentes de Valdepero,Amusco,Palencia
-35509,San Bartolomé,San Bartolomé,Las Palma
+35509,San Bartolomé,San Bartolomé,Las Palmas
 36458,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36867,Ponteareas,Ponteareas,Pontevedra
 37882,Terradillos,Alba de Tormes,Salamanca
@@ -3740,7 +3740,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33700,Valdés,Valdés,Asturias
 33774,San Tirso de Abres,San Tirso de Abres,Asturias
 34128,Serna,Loma de Ucieza,Palencia
-35432,Firgas,Firgas,Las Palma
+35432,Firgas,Firgas,Las Palmas
 36539,Rodeiro,Rodeiro,Pontevedra
 37120,Carrascal de Barregas,Carrascal de Barregas,Salamanca
 37159,Puertas,Villaseco de los Reyes,Salamanca
@@ -4001,7 +4001,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 31797,Ultzama,Ultzama,Navarra
 32557,Viana do Bolo,Viana do Bolo,Ourense
 34406,Báscones de Ojeda,Herrera de Pisuerga,Palencia
-35660,Oliva,Oliva,Las Palma
+35660,Oliva,Oliva,Las Palmas
 36878,Covelo,Mondariz,Pontevedra
 36889,Cañiza,Cañiza,Pontevedra
 38415,Realejos,Realejos,Santa Cruz de Tenerife
@@ -4285,7 +4285,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33546,Parres,Parres,Asturias
 33789,Valdés,Valdés,Asturias
 34260,Villodrigo,Valles de Palenzuela,Palencia
-35003,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35003,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36538,Rodeiro,Rodeiro,Pontevedra
 36893,Ponteareas,Ponteareas,Pontevedra
 37130,Canillas de Abajo,Tabera de Abajo,Salamanca
@@ -4422,7 +4422,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34337,Fuentes de Nava,Fuentes de Nava,Palencia
 34460,Osorno la Mayor,Osorno la Mayor,Palencia
 34882,Congosto de Valdavia,Congosto de Valdavia,Palencia
-35218,Telde,Telde,Las Palma
+35218,Telde,Telde,Las Palmas
 36390,Vigo,Vigo,Pontevedra
 36414,Porriño,Porriño,Pontevedra
 36515,Lalín,Lalín,Pontevedra
@@ -4500,8 +4500,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34129,Bustillo del Páramo de Carrión,Bustillo del Páramo de Carrión,Palencia
 34468,Lantadilla,Lantadilla,Palencia
 34889,Villalba de Guardo,Guardo,Palencia
-35230,Telde,Telde,Las Palma
-35350,Artenara,Gáldar,Las Palma
+35230,Telde,Telde,Las Palmas
+35350,Artenara,Gáldar,Las Palmas
 36339,Vigo,Vigo,Pontevedra
 36836,Lama,Lama,Pontevedra
 37466,Sanchón de la Sagrada,Aldehuela de la Bóveda,Salamanca
@@ -4565,9 +4565,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33784,Valdés,Valdés,Asturias
 34449,Población de Campos,Villalcázar de Sirga,Palencia
 34490,Astudillo,Astudillo,Palencia
-35008,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35240,Ingenio,Ingenio,Las Palma
-35369,Tejeda,San Bartolomé de Tirajana,Las Palma
+35008,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35240,Ingenio,Ingenio,Las Palmas
+35369,Tejeda,San Bartolomé de Tirajana,Las Palmas
 36392,Vigo,Vigo,Pontevedra
 37720,Cerro,Cerro,Salamanca
 37753,Armenteros,Armenteros,Salamanca
@@ -4652,7 +4652,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33588,Ribadesella,Ribadesella,Asturias
 33675,Aller,Aller,Asturias
 33736,Grandas de Salime,Grandas de Salime,Asturias
-35149,Mogán,Mogán,Las Palma
+35149,Mogán,Mogán,Las Palmas
 36879,Mondariz,Mondariz,Pontevedra
 37291,Olmedo de Camaces,Olmedo de Camaces,Salamanca
 37591,Atalaya,Zamarra,Salamanca
@@ -4715,7 +4715,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32800,Celanova,Celanova,Ourense
 33010,Siero,Oviedo,Asturias
 34407,Sotobañado y Priorato,Villameriel,Palencia
-35613,Puerto del Rosario,Puerto del Rosario,Las Palma
+35613,Puerto del Rosario,Puerto del Rosario,Las Palmas
 36516,Lalín,Lalín,Pontevedra
 36524,Agolada,Agolada,Pontevedra
 36550,Forcarei,Forcarei,Pontevedra
@@ -4789,7 +4789,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34110,Pino del Río,Pino del Río,Palencia
 34305,Villerías de Campos,Capillas,Palencia
 34406,Dehesa de Romanos,Herrera de Pisuerga,Palencia
-35400,Arucas,Arucas,Las Palma
+35400,Arucas,Arucas,Las Palmas
 36810,Redondela,Redondela,Pontevedra
 37120,Doñinos de Salamanca,Carrascal de Barregas,Salamanca
 37130,Tabera de Abajo,Tabera de Abajo,Salamanca
@@ -4854,9 +4854,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32812,Bola,Bola,Ourense
 33161,Morcín,Morcín,Asturias
 33519,Siero,Siero,Asturias
-35005,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35010,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35110,Santa Lucía de Tirajana,Santa Lucía de Tirajana,Las Palma
+35005,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35010,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35110,Santa Lucía de Tirajana,Santa Lucía de Tirajana,Las Palmas
 36418,Porriño,Porriño,Pontevedra
 36655,Caldas de Reis,Caldas de Reis,Pontevedra
 37724,Valdelageve,Cerro,Salamanca
@@ -4966,10 +4966,10 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33120,Pravia,Pravia,Asturias
 33535,Piloña,Piloña,Asturias
 33995,Caso,Caso,Asturias
-35214,Telde,Telde,Las Palma
-35270,Agüimes,Agüimes,Las Palma
-35628,Pájara,Pájara,Las Palma
-35650,Oliva,Oliva,Las Palma
+35214,Telde,Telde,Las Palmas
+35270,Agüimes,Agüimes,Las Palmas
+35628,Pájara,Pájara,Las Palmas
+35650,Oliva,Oliva,Las Palmas
 36517,Lalín,Lalín,Pontevedra
 36747,Tomiño,Tomiño,Pontevedra
 37713,Valdehijaderos,Valdehijaderos,Salamanca
@@ -5098,7 +5098,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32703,Maceda,Maceda,Ourense
 32911,San Cibrao das Viñas,San Cibrao das Viñas,Ourense
 33857,Salas,Salas,Asturias
-35118,Agüimes,Agüimes,Las Palma
+35118,Agüimes,Agüimes,Las Palmas
 36117,Cerdedo,Cerdedo,Pontevedra
 36587,Silleda,Silleda,Pontevedra
 37185,Valverdón,Castellanos de Villiquera,Salamanca
@@ -5182,8 +5182,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33830,Belmonte de Miranda,Belmonte de Miranda,Asturias
 34118,Loma de Ucieza,Loma de Ucieza,Palencia
 34347,Lagartos,Lagartos,Palencia
-35100,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
-35570,Yaiza,Yaiza,Las Palma
+35100,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35570,Yaiza,Yaiza,Las Palmas
 36637,Meis,Meis,Pontevedra
 36729,Tui,Tui,Pontevedra
 36813,Redondela,Redondela,Pontevedra
@@ -5327,7 +5327,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33591,Llanes,Llanes,Asturias
 33746,Franco,Tapia de Casariego,Asturias
 33935,Langreo,Langreo,Asturias
-35212,Telde,Telde,Las Palma
+35212,Telde,Telde,Las Palmas
 36116,Cerdedo,Cerdedo,Pontevedra
 36519,Lalín,Lalín,Pontevedra
 36860,Ponteareas,Ponteareas,Pontevedra
@@ -5394,7 +5394,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34112,Santervás de la Vega,Villaluenga de la Vega,Palencia
 34246,Castrillo de Don Juan,Castrillo de Don Juan,Palencia
 34469,Villaherreros,Osorno la Mayor,Palencia
-35299,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35299,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36110,Campo Lameiro,Campo Lameiro,Pontevedra
 36142,Vilaboa,Vilaboa,Pontevedra
 36309,Baiona,Baiona,Pontevedra
@@ -5463,7 +5463,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33009,Oviedo,Oviedo,Asturias
 34111,Poza de la Vega,Saldaña,Palencia
 34131,Paredes de Nava,Paredes de Nava,Palencia
-35229,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35229,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 37329,Alconada,Alconada,Salamanca
 38520,Candelaria,Candelaria,Santa Cruz de Tenerife
 38614,Vilaflor,Vilaflor,Santa Cruz de Tenerife
@@ -5529,7 +5529,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33535,Cabranes,Piloña,Asturias
 33750,Franco,Franco,Asturias
 33846,Salas,Salas,Asturias
-35489,Agaete,Agaete,Las Palma
+35489,Agaete,Agaete,Las Palmas
 36191,Barro,Barro,Pontevedra
 37147,Villar de Peralonso,Villar de Peralonso,Salamanca
 37176,Almendra,Almendra,Salamanca
@@ -5899,7 +5899,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34127,Valde-Ucieza,Loma de Ucieza,Palencia
 34249,Villaviudas,Baltanás,Palencia
 34257,Palenzuela,Tabanera de Cerrato,Palencia
-35468,Gáldar,Gáldar,Las Palma
+35468,Gáldar,Gáldar,Las Palmas
 37208,San Muñoz,Fuente de San Esteban,Salamanca
 37250,Aldeadávila de la Ribera,Aldeadávila de la Ribera,Salamanca
 37712,Pinedas,Horcajo de Montemayor,Salamanca
@@ -6033,8 +6033,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33100,Oviedo,Oviedo,Asturias
 33341,Colunga,Colunga,Asturias
 34829,Barruelo de Santullán,Barruelo de Santullán,Palencia
-35360,Tejeda,Tejeda,Las Palma
-35540,Teguise,Teguise,Las Palma
+35360,Tejeda,Tejeda,Las Palmas
+35540,Teguise,Teguise,Las Palmas
 37337,Cordovilla,Cordovilla,Salamanca
 37428,Orbada,Orbada,Salamanca
 37466,Aldehuela de la Bóveda,Aldehuela de la Bóveda,Salamanca
@@ -6176,7 +6176,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 30878,Mazarrón,Lorca,Murcia
 32981,Ourense,Ourense,Ourense
 34130,Paredes de Nava,Paredes de Nava,Palencia
-35001,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35001,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36157,Pontevedra,Pontevedra,Pontevedra
 36460,Salceda de Caselas,Tui,Pontevedra
 36648,Valga,Valga,Pontevedra
@@ -6324,7 +6324,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33213,Gijón,Gijón,Asturias
 33846,Belmonte de Miranda,Salas,Asturias
 34870,Santibáñez de la Peña,Santibáñez de la Peña,Palencia
-35539,Teguise,Teguise,Las Palma
+35539,Teguise,Teguise,Las Palmas
 36649,Valga,Valga,Pontevedra
 36675,Cuntis,Cuntis,Pontevedra
 39312,Polanco,Polanco,Cantabria
@@ -6450,7 +6450,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33660,Oviedo,Oviedo,Asturias
 34257,Tabanera de Cerrato,Tabanera de Cerrato,Palencia
 34815,Pomar de Valdivia,Aguilar de Campoo,Palencia
-35280,Santa Lucía de Tirajana,San Bartolomé de Tirajana,Las Palma
+35280,Santa Lucía de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36309,Oia,Baiona,Pontevedra
 36546,Silleda,Silleda,Pontevedra
 36610,Vilagarcía de Arousa,Vilagarcía de Arousa,Pontevedra
@@ -6527,7 +6527,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32824,Cartelle,Cartelle,Ourense
 33736,Pesoz,Grandas de Salime,Asturias
 34470,Puebla de Valdavia,Buenavista de Valdavia,Palencia
-35637,Puerto del Rosario,Puerto del Rosario,Las Palma
+35637,Puerto del Rosario,Puerto del Rosario,Las Palmas
 36874,Mondariz,Mondariz,Pontevedra
 36877,Mondariz,Mondariz,Pontevedra
 37540,Fuenteguinaldo,Fuenteguinaldo,Salamanca
@@ -6751,8 +6751,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33912,Mieres,Mieres,Asturias
 34170,Villaumbrales,Villaumbrales,Palencia
 34491,Santa Cruz de Boedo,Santa Cruz de Boedo,Palencia
-35013,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35571,Tías,Tías,Las Palma
+35013,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35571,Tías,Tías,Las Palmas
 36418,Mos,Porriño,Pontevedra
 36456,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36749,Tomiño,Tomiño,Pontevedra
@@ -6822,8 +6822,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32699,Verín,Verín,Ourense
 33129,Pravia,Pravia,Asturias
 33163,Morcín,Morcín,Asturias
-35430,Firgas,Firgas,Las Palma
-35519,Tías,Tías,Las Palma
+35430,Firgas,Firgas,Las Palmas
+35519,Tías,Tías,Las Palmas
 37290,Boada,Boada,Salamanca
 37406,Palaciosrubios,Villaflores,Salamanca
 37510,Sahugo,Herguijuela de Ciudad Rodrigo,Salamanca
@@ -6902,8 +6902,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33210,Gijón,Gijón,Asturias
 33300,Villaviciosa,Villaviciosa,Asturias
 34113,Bustillo de la Vega,Villaluenga de la Vega,Palencia
-35218,Valsequillo de Gran Canaria,Telde,Las Palma
-35220,Telde,Palmas de Gran Canaria,Las Palma
+35218,Valsequillo de Gran Canaria,Telde,Las Palmas
+35220,Telde,Palmas de Gran Canaria,Las Palmas
 36615,Caldas de Reis,Caldas de Reis,Pontevedra
 36690,Soutomaior,Pontevedra,Pontevedra
 37317,Aldeaseca de la Frontera,Campo de Peñaranda,Salamanca
@@ -7101,7 +7101,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33449,Gozón,Carreño,Asturias
 33679,Aller,Aller,Asturias
 34492,Sotresgudo,Aguilar de Campoo,Burgos
-35415,Arucas,Arucas,Las Palma
+35415,Arucas,Arucas,Las Palmas
 36635,Cambados,Cambados,Pontevedra
 36650,Caldas de Reis,Caldas de Reis,Pontevedra
 37170,Zarapicos,Carrascal de Barregas,Salamanca
@@ -7172,7 +7172,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32515,San Amaro,Carballiño,Ourense
 33629,Lena,Lena,Asturias
 34477,Bárcena de Campos,Loma de Ucieza,Palencia
-35639,Antigua,Antigua,Las Palma
+35639,Antigua,Antigua,Las Palmas
 36474,Salceda de Caselas,Salceda de Caselas,Pontevedra
 36915,Marín,Marín,Pontevedra
 39220,Valderredible,Valderredible,Cantabria
@@ -7249,8 +7249,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34347,Ledigos,Lagartos,Palencia
 34420,Amusco,Amusco,Palencia
 34858,Castrejón de la Peña,Castrejón de la Peña,Palencia
-35108,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
-35211,Telde,Telde,Las Palma
+35108,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35211,Telde,Telde,Las Palmas
 36155,Pontevedra,Pontevedra,Pontevedra
 37445,San Pedro de Rozados,San Pedro de Rozados,Salamanca
 38769,Llanos de Aridane,Llanos de Aridane,Santa Cruz de Tenerife
@@ -7387,7 +7387,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32648,Calvos de Randín,Calvos de Randín,Ourense
 33611,Mieres,Mieres,Asturias
 33770,Vegadeo,Vegadeo,Asturias
-35009,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35009,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36152,Pontevedra,Pontevedra,Pontevedra
 36412,Porriño,Porriño,Pontevedra
 36627,Vilanova de Arousa,Vilanova de Arousa,Pontevedra
@@ -7451,7 +7451,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33759,Franco,Franco,Asturias
 33794,Castropol,Castropol,Asturias
 33812,Ibias,Ibias,Asturias
-35128,Mogán,San Bartolomé de Tirajana,Las Palma
+35128,Mogán,San Bartolomé de Tirajana,Las Palmas
 36457,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36633,Cambados,Cambados,Pontevedra
 36676,Estrada,Estrada,Pontevedra
@@ -7530,8 +7530,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33739,Grandas de Salime,Grandas de Salime,Asturias
 33997,Caso,Caso,Asturias
 34304,Mazuecos de Valdeginate,Frechilla,Palencia
-35119,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
-35478,Aldea de San Nicolás,Aldea de San Nicolás,Las Palma
+35119,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35478,Aldea de San Nicolás,Aldea de San Nicolás,Las Palmas
 36659,Caldas de Reis,Caldas de Reis,Pontevedra
 37007,Salamanca,Salamanca,Salamanca
 37310,Macotera,Macotera,Salamanca
@@ -7763,8 +7763,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34320,Cisneros,Cisneros,Palencia
 34419,Villalobón,Amusco,Palencia
 34878,Congosto de Valdavia,Santibáñez de la Peña,Palencia
-35219,Telde,Telde,Las Palma
-35620,Tuineje,Tuineje,Las Palma
+35219,Telde,Telde,Las Palmas
+35620,Tuineje,Tuineje,Las Palmas
 36590,Vila de Cruces,Vila de Cruces,Pontevedra
 36679,Cuntis,Cuntis,Pontevedra
 37150,Villaseco de los Reyes,Villaseco de los Reyes,Salamanca
@@ -7837,7 +7837,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33799,Boal,Boal,Asturias
 34260,Valles de Palenzuela,Valles de Palenzuela,Burgos
 34813,Pomar de Valdivia,Aguilar de Campoo,Palencia
-35004,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35004,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36844,Pazos de Borbén,Pazos de Borbén,Pontevedra
 36846,Fornelos de Montes,Fornelos de Montes,Pontevedra
 37267,Villares de Yeltes,Villares de Yeltes,Salamanca
@@ -7911,7 +7911,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33423,Llanera,Llanera,Asturias
 33783,Valdés,Valdés,Asturias
 33900,Langreo,Langreo,Asturias
-35572,Tías,Tías,Las Palma
+35572,Tías,Tías,Las Palmas
 36207,Vigo,Vigo,Pontevedra
 36613,Vilagarcía de Arousa,Vilagarcía de Arousa,Pontevedra
 36667,Moraña,Moraña,Pontevedra
@@ -7984,7 +7984,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 31829,Ergoiena,Ergoiena,Navarra
 34170,Autilla del Pino,Villaumbrales,Palencia
 34491,Villaprovedo,Santa Cruz de Boedo,Palencia
-35139,Mogán,Mogán,Las Palma
+35139,Mogán,Mogán,Las Palmas
 36153,Pontevedra,Pontevedra,Pontevedra
 36640,Pontecesures,Pontecesures,Pontevedra
 36880,Cañiza,Cañiza,Pontevedra
@@ -8048,7 +8048,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32707,Maceda,Maceda,Ourense
 33877,Tineo,Tineo,Asturias
 34405,Santa Cruz de Boedo,Melgar de Fernamental,Palencia
-35412,Arucas,Arucas,Las Palma
+35412,Arucas,Arucas,Las Palmas
 36194,Barro,Barro,Pontevedra
 36612,Catoira,Catoira,Pontevedra
 37159,Villaseco de los Reyes,Villaseco de los Reyes,Salamanca
@@ -8216,9 +8216,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33810,Ibias,Ibias,Asturias
 34111,Saldaña,Saldaña,Palencia
 34473,Valderrábano,Valderrábano,Palencia
-35007,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35120,Mogán,Mogán,Las Palma
-35637,Betancuria,Puerto del Rosario,Las Palma
+35007,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35120,Mogán,Mogán,Las Palmas
+35637,Betancuria,Puerto del Rosario,Las Palmas
 36780,Guarda,Guarda,Pontevedra
 37217,Villarmuerto,Valsalabroso,Salamanca
 37882,Alba de Tormes,Alba de Tormes,Salamanca
@@ -8293,10 +8293,10 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32440,Peroxa,Peroxa,Ourense
 32551,Viana do Bolo,Viana do Bolo,Ourense
 33842,Somiedo,Somiedo,Asturias
-35300,Santa Brígida,Santa Brígida,Las Palma
-35307,Santa Brígida,Santa Brígida,Las Palma
-35411,Arucas,Arucas,Las Palma
-35630,Antigua,Antigua,Las Palma
+35300,Santa Brígida,Santa Brígida,Las Palmas
+35307,Santa Brígida,Santa Brígida,Las Palmas
+35411,Arucas,Arucas,Las Palmas
+35630,Antigua,Antigua,Las Palmas
 36581,Vila de Cruces,Vila de Cruces,Pontevedra
 36856,Cotobade,Cotobade,Pontevedra
 37130,Doñinos de Ledesma,Tabera de Abajo,Salamanca
@@ -8439,9 +8439,9 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34304,Guaza de Campos,Frechilla,Palencia
 34349,Moratinos,Villada,Palencia
 34484,Dehesa de Montejo,Dehesa de Montejo,Palencia
-35200,Telde,Telde,Las Palma
-35488,Gáldar,Gáldar,Las Palma
-35550,San Bartolomé,San Bartolomé,Las Palma
+35200,Telde,Telde,Las Palmas
+35488,Gáldar,Gáldar,Las Palmas
+35550,San Bartolomé,San Bartolomé,Las Palmas
 36210,Vigo,Vigo,Pontevedra
 36315,Vigo,Vigo,Pontevedra
 36544,Silleda,Silleda,Pontevedra
@@ -8510,8 +8510,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33639,Lena,Lena,Asturias
 33747,Tapia de Casariego,Tapia de Casariego,Asturias
 33756,Boal,Boal,Asturias
-35414,Arucas,Arucas,Las Palma
-35627,Pájara,Pájara,Las Palma
+35414,Arucas,Arucas,Las Palmas
+35627,Pájara,Pájara,Las Palmas
 36436,Arbo,Arbo,Pontevedra
 37406,Villaflores,Villaflores,Salamanca
 37488,Villar de Ciervo,San Pedro de Rozados,Salamanca
@@ -8671,7 +8671,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34218,Cevico de la Torre,Cevico de la Torre,Palencia
 34419,Husillos,Amusco,Palencia
 34475,Villaeles de Valdavia,Villaeles de Valdavia,Palencia
-35369,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35369,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36683,Estrada,Estrada,Pontevedra
 37172,Sardón de los Frailes,Sardón de los Frailes,Salamanca
 37217,Sanchón de la Ribera,Valsalabroso,Salamanca
@@ -8737,7 +8737,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32634,Blancos,Blancos,Ourense
 32774,Castro Caldelas,Castro Caldelas,Ourense
 34347,Pozo de Urama,Lagartos,Palencia
-35638,Tuineje,Antigua,Las Palma
+35638,Tuineje,Antigua,Las Palmas
 36370,Nigrán,Nigrán,Pontevedra
 36568,Forcarei,Forcarei,Pontevedra
 36630,Cambados,Cambados,Pontevedra
@@ -8951,7 +8951,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32720,Esgos,Esgos,Ourense
 32900,San Cibrao das Viñas,Pereiro de Aguiar,Ourense
 33990,Caso,Caso,Asturias
-35020,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35020,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 37171,Manzano,Monleras,Salamanca
 37197,Mozárbez,Mozárbez,Salamanca
 37754,Armenteros,Armenteros,Salamanca
@@ -9014,10 +9014,10 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33412,Corvera de Asturias,Castrillón,Asturias
 33470,Llanera,Llanera,Asturias
 33534,Piloña,Piloña,Asturias
-35290,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
-35458,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palma
-35468,Agaete,Gáldar,Las Palma
-35543,Haría,Haría,Las Palma
+35290,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
+35458,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palmas
+35468,Agaete,Gáldar,Las Palmas
+35543,Haría,Haría,Las Palmas
 36646,Valga,Valga,Pontevedra
 37777,Sorihuela,Cabeza de Béjar,Salamanca
 38910,Valverde,Valverde,Santa Cruz de Tenerife
@@ -9209,7 +9209,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33684,Aller,Aller,Asturias
 34468,Itero de la Vega,Lantadilla,Palencia
 34811,Aguilar de Campoo,Aguilar de Campoo,Palencia
-35310,Santa Brígida,Santa Brígida,Las Palma
+35310,Santa Brígida,Santa Brígida,Las Palmas
 37170,San Pedro del Valle,Carrascal de Barregas,Salamanca
 37184,Monterrubio de Armuña,Villares de la Reina,Salamanca
 37786,Galinduste,Galinduste,Salamanca
@@ -9577,7 +9577,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34116,Pedrosa de la Vega,Pedrosa de la Vega,Palencia
 34116,Villarrabé,Pedrosa de la Vega,Palencia
 34247,Villaconancio,Hérmedes de Cerrato,Palencia
-35469,Gáldar,Gáldar,Las Palma
+35469,Gáldar,Gáldar,Las Palmas
 36003,Pontevedra,Pontevedra,Pontevedra
 36408,Porriño,Porriño,Pontevedra
 37453,Vecinos,San Pedro de Rozados,Salamanca
@@ -9655,7 +9655,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34309,Cervatos de la Cueza,Riberos de la Cueza,Palencia
 34411,Ribas de Campos,Ribas de Campos,Palencia
 34880,Guardo,Guardo,Palencia
-35559,San Bartolomé,San Bartolomé,Las Palma
+35559,San Bartolomé,San Bartolomé,Las Palmas
 36317,Vigo,Vigo,Pontevedra
 36510,Lalín,Lalín,Pontevedra
 37216,Peralejos de Arriba,Pozos de Hinojo,Salamanca
@@ -9819,8 +9819,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33950,San Martín del Rey Aurelio,San Martín del Rey Aurelio,Asturias
 34219,Castrillo de Onielo,Población de Cerrato,Palencia
 34879,Santibáñez de la Peña,Santibáñez de la Peña,Palencia
-35368,Tejeda,Tejeda,Las Palma
-35558,Teguise,Teguise,Las Palma
+35368,Tejeda,Tejeda,Las Palmas
+35558,Teguise,Teguise,Las Palmas
 36493,Crecente,Crecente,Pontevedra
 36715,Tui,Tui,Pontevedra
 37493,Buenamadre,Fuente de San Esteban,Salamanca
@@ -9890,7 +9890,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33910,Oviedo,Oviedo,Asturias
 34258,Cobos de Cerrato,Cobos de Cerrato,Palencia
 34439,Támara de Campos,Támara de Campos,Palencia
-35460,Gáldar,Gáldar,Las Palma
+35460,Gáldar,Gáldar,Las Palmas
 36851,Fornelos de Montes,Fornelos de Montes,Pontevedra
 36869,Ponteareas,Ponteareas,Pontevedra
 37606,Puebla de Yeltes,Puebla de Yeltes,Salamanca
@@ -9963,7 +9963,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34160,Ampudia,Ampudia,Palencia
 34170,Villamartín de Campos,Villaumbrales,Palencia
 34450,Astudillo,Astudillo,Palencia
-35260,Agüimes,Agüimes,Las Palma
+35260,Agüimes,Agüimes,Las Palmas
 36300,Baiona,Baiona,Pontevedra
 36419,Mos,Mos,Pontevedra
 36692,Barro,Barro,Pontevedra
@@ -10021,7 +10021,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32136,San Cristovo de Cea,San Cristovo de Cea,Ourense
 33194,Oviedo,Oviedo,Asturias
 33528,Bimenes,Nava,Asturias
-35350,Gáldar,Gáldar,Las Palma
+35350,Gáldar,Gáldar,Las Palmas
 36645,Valga,Valga,Pontevedra
 39311,Cartes,Cartes,Cantabria
 39438,Molledo,Molledo,Cantabria
@@ -10088,7 +10088,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33740,Tapia de Casariego,Tapia de Casariego,Asturias
 34230,Torquemada,Torquemada,Palencia
 34347,Población de Arroyo,Lagartos,Palencia
-35309,Santa Brígida,Santa Brígida,Las Palma
+35309,Santa Brígida,Santa Brígida,Las Palmas
 36282,Vigo,Vigo,Pontevedra
 36314,Vigo,Vigo,Pontevedra
 36730,Tomiño,Tomiño,Pontevedra
@@ -10731,8 +10731,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33815,Allande,Cangas del Narcea,Asturias
 34126,Villamoronta,Villaturde,Palencia
 34483,Dehesa de Montejo,Dehesa de Montejo,Palencia
-35421,Moya,Moya,Las Palma
-35638,Antigua,Antigua,Las Palma
+35421,Moya,Moya,Las Palmas
+35638,Antigua,Antigua,Las Palmas
 37756,Armenteros,Armenteros,Salamanca
 38297,San Cristóbal de La Laguna,San Cristóbal de La Laguna,Santa Cruz de Tenerife
 38399,Santa Úrsula,Santa Úrsula,Santa Cruz de Tenerife
@@ -10855,7 +10855,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33342,Colunga,Colunga,Asturias
 34486,Prádanos de Ojeda,Aguilar de Campoo,Palencia
 34828,Barruelo de Santullán,Barruelo de Santullán,Palencia
-35106,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palma
+35106,San Bartolomé de Tirajana,San Bartolomé de Tirajana,Las Palmas
 36746,Tomiño,Tomiño,Pontevedra
 36920,Marín,Marín,Pontevedra
 37188,Carbajosa de la Sagrada,Arapiles,Salamanca
@@ -10973,7 +10973,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33717,Villayón,Villayón,Asturias
 33859,Salas,Salas,Asturias
 33949,Langreo,San Martín del Rey Aurelio,Asturias
-35626,Pájara,Pájara,Las Palma
+35626,Pájara,Pájara,Las Palmas
 36750,Tomiño,Tomiño,Pontevedra
 36900,Marín,Marín,Pontevedra
 36910,Pontevedra,Pontevedra,Pontevedra
@@ -11142,10 +11142,10 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32786,Pobra de Trives,Pobra de Trives,Ourense
 33534,Nava,Piloña,Asturias
 34117,Saldaña,Saldaña,Palencia
-35215,Telde,Telde,Las Palma
-35216,Valsequillo de Gran Canaria,Valsequillo de Gran Canaria,Las Palma
-35330,Teror,Teror,Las Palma
-35422,Moya,Moya,Las Palma
+35215,Telde,Telde,Las Palmas
+35216,Valsequillo de Gran Canaria,Valsequillo de Gran Canaria,Las Palmas
+35330,Teror,Teror,Las Palmas
+35422,Moya,Moya,Las Palmas
 36205,Vigo,Vigo,Pontevedra
 36215,Vigo,Vigo,Pontevedra
 37005,Salamanca,Salamanca,Salamanca
@@ -11212,7 +11212,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33559,Amieva,Parres,Asturias
 33628,Lena,Lena,Asturias
 33694,Lena,Lena,Asturias
-35420,Moya,Moya,Las Palma
+35420,Moya,Moya,Las Palmas
 36583,Vila de Cruces,Vila de Cruces,Pontevedra
 37893,Terradillos,Alba de Tormes,Salamanca
 38120,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife
@@ -11391,7 +11391,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33938,Siero,Siero,Asturias
 34407,Calahorra de Boedo,Villameriel,Palencia
 34847,Pernía,Pernía,Palencia
-35580,Yaiza,Yaiza,Las Palma
+35580,Yaiza,Yaiza,Las Palmas
 37115,Vega de Tirados,Villarmayor,Salamanca
 37317,Campo de Peñaranda,Campo de Peñaranda,Salamanca
 37760,Linares de Riofrío,Linares de Riofrío,Salamanca
@@ -11541,7 +11541,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33578,Peñamellera Alta,Peñamellera Alta,Asturias
 33826,Yernes y Tameza,Grado,Asturias
 34248,Antigüedad,Cobos de Cerrato,Palencia
-35450,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palma
+35450,Santa María de Guía de Gran Canaria,Santa María de Guía de Gran Canaria,Las Palmas
 36827,Ponte Caldelas,Ponte Caldelas,Pontevedra
 37531,Serradilla del Arroyo,Serradilla del Arroyo,Salamanca
 39213,Hermandad de Campoo de Suso,Campoo de Enmedio,Cantabria
@@ -11670,10 +11670,10 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 31263,Arellano,Dicastillo,Navarra
 32371,Larouco,Petín,Ourense
 33782,Valdés,Valdés,Asturias
-35015,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35017,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35480,Agaete,Agaete,Las Palma
-35560,Tinajo,Tinajo,Las Palma
+35015,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35017,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35480,Agaete,Agaete,Las Palmas
+35560,Tinajo,Tinajo,Las Palmas
 36543,Silleda,Silleda,Pontevedra
 36616,Meis,Meis,Pontevedra
 37183,Morille,San Pedro de Rozados,Salamanca
@@ -11731,8 +11731,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 29639,Benalmádena,Benalmádena,Málaga
 34307,Valle del Retortillo,Valle del Retortillo,Palencia
 34429,San Cebrián de Campos,San Cebrián de Campos,Palencia
-35269,Agüimes,Agüimes,Las Palma
-35561,Teguise,Teguise,Las Palma
+35269,Agüimes,Agüimes,Las Palmas
+35561,Teguise,Teguise,Las Palmas
 36193,Barro,Barro,Pontevedra
 37670,Santibáñez de la Sierra,Santibáñez de la Sierra,Salamanca
 37781,Monterrubio de la Sierra,Monterrubio de la Sierra,Salamanca
@@ -11815,7 +11815,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33719,Coaña,Coaña,Asturias
 33794,Tapia de Casariego,Castropol,Asturias
 34133,Perales,Perales,Palencia
-35130,Mogán,Mogán,Las Palma
+35130,Mogán,Mogán,Las Palmas
 36455,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36857,Cotobade,Cotobade,Pontevedra
 37110,Arco,San Pelayo de Guareña,Salamanca
@@ -12103,7 +12103,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32516,Carballiño,Carballiño,Ourense
 32950,Coles,Coles,Ourense
 33346,Ribadesella,Ribadesella,Asturias
-35339,Teror,Teror,Las Palma
+35339,Teror,Teror,Las Palmas
 36530,Rodeiro,Rodeiro,Pontevedra
 36989,Grove,Grove,Pontevedra
 37453,Matilla de los Caños del Río,San Pedro de Rozados,Salamanca
@@ -12179,8 +12179,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33866,Salas,Salas,Asturias
 33959,San Martín del Rey Aurelio,San Martín del Rey Aurelio,Asturias
 34813,Aguilar de Campoo,Aguilar de Campoo,Palencia
-35014,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35600,Puerto del Rosario,Puerto del Rosario,Las Palma
+35014,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35600,Puerto del Rosario,Puerto del Rosario,Las Palmas
 36201,Vigo,Vigo,Pontevedra
 37115,Juzbado,Villarmayor,Salamanca
 37429,Arcediano,Arcediano,Salamanca
@@ -12257,7 +12257,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34465,Valbuena de Pisuerga,Valbuena de Pisuerga,Palencia
 34859,Castrejón de la Peña,Castrejón de la Peña,Palencia
 34889,Mantinos,Guardo,Palencia
-35612,Puerto del Rosario,Puerto del Rosario,Las Palma
+35612,Puerto del Rosario,Puerto del Rosario,Las Palmas
 36190,Barro,Barro,Pontevedra
 36557,Forcarei,Forcarei,Pontevedra
 36711,Tui,Tui,Pontevedra
@@ -12532,8 +12532,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32667,Allariz,Allariz,Ourense
 33119,Santo Adriano,Oviedo,Asturias
 33618,Mieres,Mieres,Asturias
-35220,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
-35259,Ingenio,Ingenio,Las Palma
+35220,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
+35259,Ingenio,Ingenio,Las Palmas
 36841,Pazos de Borbén,Pazos de Borbén,Pontevedra
 36849,Fornelos de Montes,Fornelos de Montes,Pontevedra
 37006,Salamanca,Salamanca,Salamanca
@@ -12603,7 +12603,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 31154,Ucar,Ucar,Navarra
 31219,Sorlada,Mendaza,Navarra
 34800,Aguilar de Campoo,Aguilar de Campoo,Palencia
-35333,Teror,Teror,Las Palma
+35333,Teror,Teror,Las Palmas
 36684,Estrada,Estrada,Pontevedra
 39110,Santa Cruz de Bezana,Santa Cruz de Bezana,Cantabria
 40540,Pradales,Encinas,Segovia
@@ -12680,8 +12680,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33558,Ponga,Amieva,Asturias
 33620,Lena,Lena,Asturias
 33682,Mieres,Mieres,Asturias
-35340,Valleseco,Valleseco,Las Palma
-35541,Haría,Haría,Las Palma
+35340,Valleseco,Valleseco,Las Palmas
+35541,Haría,Haría,Las Palmas
 36446,Neves,Neves,Pontevedra
 36518,Lalín,Lalín,Pontevedra
 36691,Soutomaior,Soutomaior,Pontevedra
@@ -12835,7 +12835,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34126,Renedo de la Vega,Villaturde,Palencia
 34192,Villaumbrales,Villaumbrales,Palencia
 34407,Revilla de Collazos,Villameriel,Palencia
-35518,Tías,Tías,Las Palma
+35518,Tías,Tías,Las Palmas
 37192,Carrascal de Barregas,Carrascal de Barregas,Salamanca
 37408,Zorita de la Frontera,Zorita de la Frontera,Salamanca
 37730,Ledrada,Ledrada,Salamanca
@@ -12981,7 +12981,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34113,Villaluenga de la Vega,Villaluenga de la Vega,Palencia
 34468,Osornillo,Lantadilla,Palencia
 34473,Tabanera de Valdavia,Valderrábano,Palencia
-35016,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35016,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 37467,Sando,Sando,Salamanca
 39120,Piélagos,Piélagos,Cantabria
 40315,Castro de Fuentidueña,Castrojimeno,Segovia
@@ -13050,7 +13050,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32910,San Cibrao das Viñas,San Cibrao das Viñas,Ourense
 33888,Allande,Allande,Asturias
 33958,San Martín del Rey Aurelio,San Martín del Rey Aurelio,Asturias
-35627,Tuineje,Pájara,Las Palma
+35627,Tuineje,Pájara,Las Palmas
 36792,Tomiño,Tomiño,Pontevedra
 37001,Salamanca,Salamanca,Salamanca
 37497,Carpio de Azaba,Villar de la Yegua,Salamanca
@@ -13111,7 +13111,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33207,Gijón,Gijón,Asturias
 33957,San Martín del Rey Aurelio,Mieres,Asturias
 34100,Saldaña,Saldaña,Palencia
-35308,Santa Brígida,Santa Brígida,Las Palma
+35308,Santa Brígida,Santa Brígida,Las Palmas
 37185,Castellanos de Villiquera,Castellanos de Villiquera,Salamanca
 37256,Milano,Milano,Salamanca
 37480,Fuentes de Oñoro,Fuentes de Oñoro,Salamanca
@@ -13189,7 +13189,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33890,Allande,Allande,Asturias
 34239,Villamediana,Valdeolmillos,Palencia
 34305,Capillas,Capillas,Palencia
-35423,Moya,Moya,Las Palma
+35423,Moya,Moya,Las Palmas
 36163,Poio,Pontevedra,Pontevedra
 36653,Caldas de Reis,Caldas de Reis,Pontevedra
 36895,Ponteareas,Ponteareas,Pontevedra
@@ -13322,7 +13322,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32860,Entrimo,Entrimo,Ourense
 33128,Salas,Salas,Asturias
 33836,Salas,Salas,Asturias
-35544,Teguise,Teguise,Las Palma
+35544,Teguise,Teguise,Las Palmas
 36206,Vigo,Vigo,Pontevedra
 36213,Vigo,Vigo,Pontevedra
 36940,Cangas,Cangas,Pontevedra
@@ -13390,8 +13390,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32557,Vilariño de Conso,Viana do Bolo,Ourense
 34407,Olea de Boedo,Villameriel,Palencia
 34844,Cervera de Pisuerga,Cervera de Pisuerga,Palencia
-35520,Haría,Haría,Las Palma
-35640,Oliva,Oliva,Las Palma
+35520,Haría,Haría,Las Palmas
+35640,Oliva,Oliva,Las Palmas
 36208,Vigo,Vigo,Pontevedra
 36877,Covelo,Mondariz,Pontevedra
 37008,Salamanca,Salamanca,Salamanca
@@ -13466,7 +13466,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 32449,Peroxa,Peroxa,Ourense
 34249,Baltanás,Baltanás,Palencia
 34305,Baquerín de Campos,Capillas,Palencia
-35479,Aldea de San Nicolás,Aldea de San Nicolás,Las Palma
+35479,Aldea de San Nicolás,Aldea de San Nicolás,Las Palmas
 36119,Campo Lameiro,Campo Lameiro,Pontevedra
 36450,Salvaterra de Miño,Salvaterra de Miño,Pontevedra
 36979,Sanxenxo,Sanxenxo,Pontevedra
@@ -13604,7 +13604,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34127,Loma de Ucieza,Loma de Ucieza,Palencia
 34338,Autillo de Campos,Autillo de Campos,Palencia
 34828,Salinas de Pisuerga,Barruelo de Santullán,Palencia
-35320,Vega de San Mateo,Vega de San Mateo,Las Palma
+35320,Vega de San Mateo,Vega de San Mateo,Las Palmas
 37520,Bodón,Bodón,Salamanca
 37779,Aldeavieja de Tormes,Aldeavieja de Tormes,Salamanca
 37785,Galinduste,Galinduste,Salamanca
@@ -13912,7 +13912,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 34128,Nogal de las Huertas,Loma de Ucieza,Palencia
 34209,Soto de Cerrato,Valle de Cerrato,Palencia
 34487,Alar del Rey,Alar del Rey,Palencia
-35431,Firgas,Firgas,Las Palma
+35431,Firgas,Firgas,Las Palmas
 36438,Arbo,Arbo,Pontevedra
 36514,Lalín,Lalín,Pontevedra
 36852,Fornelos de Montes,Fornelos de Montes,Pontevedra
@@ -14134,8 +14134,8 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33508,Llanes,Llanes,Asturias
 33970,Laviana,Laviana,Asturias
 34409,Villameriel,Villameriel,Palencia
-35210,Telde,Telde,Las Palma
-35500,Arrecife,Arrecife,Las Palma
+35210,Telde,Telde,Las Palmas
+35500,Arrecife,Arrecife,Las Palmas
 36192,Meis,Meis,Pontevedra
 37340,Aldearrubia,Aldearrubia,Salamanca
 37481,Fuentes de Oñoro,Fuentes de Oñoro,Salamanca
@@ -14206,7 +14206,7 @@ cp5,municipio,municipio_consolidado,provincia_consolidada
 33206,Gijón,Gijón,Asturias
 33340,Colunga,Colunga,Asturias
 33350,Gijón,Gijón,Asturias
-35019,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palma
+35019,Palmas de Gran Canaria,Palmas de Gran Canaria,Las Palmas
 36853,Ponte Caldelas,Lama,Pontevedra
 37114,Villaseco de los Reyes,Villaseco de los Reyes,Salamanca
 37140,Villaseco de los Reyes,Villaseco de los Reyes,Salamanca
